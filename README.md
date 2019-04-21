@@ -1,7 +1,6 @@
 # Character-Generation-using-Genetic-Algorithm
 # Final Project on Genetic Algorithm Implementation
 
-# Character prediction using Genetic  Algorithm
 Genetic Algorithm:
 Genetic Algorithm are commonly used to generate high-quality solutions for optimization problems and search problems.  Genetic algorithms are based on the ideas of natural selection and genetics. These are intelligent exploitation of random search provided with historical data to direct the search into the region of better performance in solution space. Genetic algorithms are based on an analogy with genetic structure and behavior of chromosome of the population
 
